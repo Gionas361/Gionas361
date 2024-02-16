@@ -10,12 +10,6 @@
 
 * ML Engineer graduated from Holberton Coding School
 
-* Software Engineer and Education Lead at Holberton Coding School PR (April 2023 - Present)
-
-* Software Engineer at Cooperton (December 2022 - April 2023)
-
-* Full Stack Developer at Wihom (October 2022 - December 2022)
-
 ## Languages
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
