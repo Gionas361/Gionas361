@@ -1,7 +1,7 @@
 # Hi there, I'm Giovanni Carmona
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:giovannicarmona360@gmail.com)
-[![Resume](https://img.shields.io/badge/RESUME-important?style=for-the-badge)](./Resume.pdf)
+[![Resume](https://img.shields.io/badge/RESUME-important?style=for-the-badge)](./Resume_Software_Engineer.pdf)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gionas361gionas361gionas361gionas361gionas361gionas361gionas361gionas361gionas361gionas361gionas361/)
 
 ![Views](https://komarev.com/ghpvc/?username=Gionas361&style=for-the-badge)
