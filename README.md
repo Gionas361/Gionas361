@@ -8,7 +8,7 @@
 
 ## About Me
 
-* ML Engineer graduated from Holberton Coding School
+* Currently studying on Holberton Coding School.
 
 ## Languages
 
